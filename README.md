@@ -1,5 +1,5 @@
 <h1 align="center">Johirul Islam Shovon</h1>
-<h3 align="center">Full-Stack Developer | Digital Content Manager | AI Enthusiast</h3>
+<h3 align="center">Full-Stack Developer | Digital Content Manager | AI Enthusiast</h3> 
 
 <a target="_blank" href="https://github.com/ShovonScripts"><img align="right" src="https://komarev.com/ghpvc/?username=ShovonScripts&label=Profile%20views&color=0e75b6&style=flat" alt="shovonscripts" /></a>
 <br>
