@@ -5,7 +5,7 @@
 <br>
 <img align="right" width="300" height="180" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" alt="Coding GIF">
 
-<h3 align="left">🚀 About Me</h3>
+<h3 align="left">About Me</h3>
 
 <p>Hello! I’m Joirul Islam Shovon — a skilled Web Application Developer, Digital Content Manager, and AI enthusiast. I recently completed the Web Application Development program from IsDB-BISEW (2024-25), adding to my foundation in English Language and Literature from the University of Dhaka. I’m passionate about building user-friendly web applications and enhancing online presence. My work combines creativity and technical expertise to bring ideas to life in the digital world.</p>
 
@@ -14,7 +14,7 @@
 </a>
 <br><br>
 
-<h3 align="left">📬 Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="mailto:jishovon@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="jishovon@gmail.com" /></a>
   <a href="https://wa.me/8801733956590" target="_blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Contact me on WhatsApp" /></a>
@@ -24,7 +24,7 @@
 </p>
 <br>
 
-<h3 align="left">💻 My Tech Stack</h3>
+<h3 align="left">My Tech Stack</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
@@ -41,7 +41,7 @@
 </p>
 <br>
 
-<h3>🌐 Live Projects</h3>
+<h3>Live Projects</h3>
 <table>
   <thead>
     <tr>
@@ -52,25 +52,45 @@
   </thead>
   <tbody>
     <tr>
-      <td>🚀 Nas Digital Growth</td>
-      <td>A sales funnel for a digital marketing platform built with HTML, CSS, and JS.</td>
-      <td><a href="https://github.com/ShovonScripts/nas_digital_growth">Repo Link</a></td>
+      <td>Sonar Bangla Bank Ltd.</td>
+      <td>A responsive and professional website clone for a banking institution.</td>
+      <td><a href="https://sbbl.jis.digital/" target="_blank">Live Site</a></td>
     </tr>
     <tr>
-      <td>💼 Personal Portfolio</td>
-      <td>My professional portfolio website to showcase my skills and projects (In Progress).</td>
-      <td><a href="https://github.com/ShovonScripts">View</a></td>
+      <td>Nas Digital Growth (Funnel)</td>
+      <td>A high-converting sales funnel for a digital marketing platform.</td>
+      <td><a href="https://funnel.nasdigitalgrowth.co.uk" target="_blank">Live Site</a></td>
+    </tr>
+    <tr>
+      <td>Nas Digital Growth (Blog)</td>
+      <td>The official blog and informational hub for the Nas Digital Growth platform.</td>
+      <td><a href="https://nasdigitalgrowth.co.uk" target="_blank">Live Site</a></td>
     </tr>
      <tr>
-      <td>🛒 E-Commerce App</td>
-      <td>A full-stack e-commerce application built with Laravel and Vue.js (Example).</td>
-      <td><a href="https://github.com/ShovonScripts">View</a></td>
+      <td>Blogitude by JIS</td>
+      <td>A personal blogging platform to showcase content creation and web skills.</td>
+      <td><a href="https://blog.jis.digital/" target="_blank">Live Site</a></td>
+    </tr>
+     <tr>
+      <td>The News Empire</td>
+      <td>A dynamic news portal website built on the WordPress platform.</td>
+      <td><a href="https://wp.jis.digital/" target="_blank">Live Site</a></td>
+    </tr>
+    <tr>
+      <td>NDC Agency</td>
+      <td>A professional website for a digital consultancy agency in the UK.</td>
+      <td><a href="https://ndc-agency.co.uk/" target="_blank">Live Site</a></td>
+    </tr>
+    <tr>
+      <td>Ways To Success</td>
+      <td>A motivational and coaching platform with a clean user experience.</td>
+      <td><a href="https://waystosuccess.co.uk/" target="_blank">Live Site</a></td>
     </tr>
   </tbody>
 </table>
 <br>
 
-<h3>📊 GitHub Stats</h3>
+<h3>GitHub Stats</h3>
 <p align="center">
   <a href="https://github.com/ShovonScripts">
     <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=ShovonScripts&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true" />
@@ -81,7 +101,7 @@
 </p>
 <br>
 
-<h3>🌟 Contribution Streak</h3>
+<h3>Contribution Streak</h3>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShovonScripts&theme=material-palenight" alt="shovonscripts" />
 </p>
