@@ -1,8 +1,6 @@
 <div align="center">
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=900&color=3595F7&center=true&vCenter=true&width=700&height=70&lines=%24+php+artisan+about%3Ame;Johirul+Islam+Shovon;Full-Stack+Developer+%F0%9F%92%BB;Digital+Content+Manager+%F0%9F%93%88;Writing+code+the+way+I+write+poetry..." alt="Typing SVG" />
-</a>
+<img src="assets/header.svg" alt="Johirul Islam Shovon — Full-Stack Developer · App Builder" width="100%" />
 
 <p>
   <a href="mailto:jishovon@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -15,7 +13,7 @@
 
 </div>
 
----
+<img src="assets/divider.svg" width="100%" alt="" />
 
 ## `~/shovon $ php artisan about:me`
 
@@ -25,17 +23,17 @@
   ╰──────────────────────────────────────────────────────╯
 
   Environment ............................ production
-  Role ................ Web Application Developer
+  Role ................ Web Application Developer · App Builder
   Also ............. Digital Content Manager
   Background ........ English Literature · University of Dhaka
   Training ............. IsDB-BISEW Web App Development (2024–25)
-  Currently building ... Enterprise Landing Pages & Sales Funnels
+  Currently building ... Full apps · Enterprise Landing Pages & Sales Funnels
   Currently learning ... Advanced AI Integration in Web Apps
   Side effects ......... Debugs code and writes poetry simultaneously
   Status ............... ● open to collaborations
 ```
 
----
+<img src="assets/divider.svg" width="100%" alt="" />
 
 ## 🧬 Developer, expressed as code
 
@@ -47,15 +45,15 @@ namespace Shovon;
 final class Developer implements Creative, Logical
 {
     public function __construct(
-        public readonly string $name       = 'Johirul Islam Shovon',
-        public readonly array  $roots      = ['English Literature', 'University of Dhaka'],
-        public readonly array  $crafts     = ['Web Applications', 'Sales Funnels', 'Digital Content'],
-        public readonly array  $stack      = ['Laravel', 'PHP', 'MySQL', 'React', 'Vue', 'Node.js', 'WordPress'],
-        public string          $learning   = 'Advanced AI Integration in Web Apps',
-        public string          $motto      = 'Code is like humor. When you have to explain it, it’s bad.',
+        public readonly string $name   = 'Johirul Islam Shovon',
+        public readonly array  $roots  = ['English Literature', 'University of Dhaka'],
+        public readonly array  $crafts = ['Web Apps', 'Full Apps', 'Sales Funnels', 'Digital Content'],
+        public readonly array  $stack  = ['PHP', 'Laravel', 'Blade', 'Vue', 'TypeScript', 'Python', 'MySQL'],
+        public string          $learning = 'Advanced AI Integration in Web Apps',
+        public string          $motto    = 'Code is like humor. When you have to explain it, it’s bad.',
     ) {}
 
-    public function build(string $idea): DigitalExperience
+    public function build(string $idea): App
     {
         return $this->design($idea)      // the poet
                     ->engineer()         // the developer
@@ -69,60 +67,23 @@ final class Developer implements Creative, Logical
 }
 ```
 
----
+<img src="assets/divider.svg" width="100%" alt="" />
 
-## 🧠 Mind map
+## 📈 What my code is made of
 
-```mermaid
-mindmap
-  root((Shovon))
-    Frontend
-      HTML5
-      CSS3
-      JavaScript
-      React
-      Vue.js
-    Backend
-      PHP
-      Laravel
-      Node.js
-      MySQL
-    CMS & Tools
-      WordPress
-      Git & GitHub
-      VS Code
-      Postman
-    Craft
-      Landing Pages
-      Sales Funnels
-      Content Strategy
-    Exploring
-      AI Integration
-      LLM-powered Web Apps
-```
+<div align="center">
+  <img src="assets/languages.svg" alt="Most used languages: PHP 35.83%, Blade 25.55%, HTML 13.19%, JavaScript 8.13%, CSS 7.35%, Vue 5.35%, TypeScript 3.04%, Python 1.57%" width="520" />
+</div>
 
----
+> PHP + Blade + Vue is the backbone of the apps I ship; TypeScript and Python are the growing edge.
 
-## 🛤️ Journey
+<img src="assets/divider.svg" width="100%" alt="" />
 
-```mermaid
-timeline
-    title From literature to logic
-    section Foundation
-        University of Dhaka : English Literature
-                            : Storytelling, structure, language
-    section Engineering
-        2024 – 2025 : IsDB-BISEW
-                    : Web Application Development
-    section Now
-        Building : Enterprise landing pages
-                 : High-converting sales funnels
-        Learning : Advanced AI integration in web apps
-```
+## 🧪 How I build apps
 
----
-
-## 🔀 How I ship
+<div align="center">
+  <img src="assets/app-flow.svg" alt="App building flow: Idea, Design, Build, Ship, Evolve" width="100%" />
+</div>
 
 ```mermaid
 gitGraph
@@ -135,13 +96,67 @@ gitGraph
     branch develop
     checkout develop
     commit id: "Laravel API"
-    commit id: "UI build"
+    commit id: "Blade / Vue UI"
     merge design id: "design merged"
     checkout main
     merge develop id: "release" tag: "live"
 ```
 
----
+<img src="assets/divider.svg" width="100%" alt="" />
+
+## 🧠 Mind map
+
+```mermaid
+mindmap
+  root((Shovon))
+    Frontend
+      HTML5
+      CSS3
+      JavaScript
+      TypeScript
+      React
+      Vue.js
+    Backend
+      PHP
+      Laravel
+      Blade
+      Node.js
+      Python
+      MySQL
+    Apps & Tools
+      Full Apps
+      WordPress
+      Git & GitHub
+      VS Code
+      Postman
+    Craft
+      Landing Pages
+      Sales Funnels
+      Content Strategy
+    Exploring
+      AI Integration
+      LLM-powered Apps
+```
+
+## 🛤️ Journey
+
+```mermaid
+timeline
+    title From literature to logic to apps
+    section Foundation
+        University of Dhaka : English Literature
+                            : Storytelling, structure, language
+    section Engineering
+        2024 – 2025 : IsDB-BISEW
+                    : Web Application Development
+    section Now
+        Building : Full apps
+                 : Enterprise landing pages
+                 : High-converting sales funnels
+        Learning : Advanced AI integration in web apps
+```
+
+<img src="assets/divider.svg" width="100%" alt="" />
 
 ## 🛠️ Technical arsenal
 
@@ -152,6 +167,7 @@ gitGraph
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 
@@ -163,6 +179,8 @@ gitGraph
 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Blade](https://img.shields.io/badge/Blade-F7523F?style=for-the-badge&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
@@ -180,22 +198,16 @@ gitGraph
 
 </details>
 
----
+<img src="assets/divider.svg" width="100%" alt="" />
 
 ## 📊 GitHub analytics
 
 <div align="center">
 
-<!-- Theme-aware: dark theme for dark mode, default for light mode -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ShovonScripts&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ShovonScripts&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true">
   <img alt="ShovonScripts GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ShovonScripts&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=ShovonScripts&layout=compact&langs_count=8&theme=tokyonight&count_private=true&hide_border=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=ShovonScripts&layout=compact&langs_count=8&theme=default&count_private=true&hide_border=true">
-  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=ShovonScripts&layout=compact&langs_count=8&theme=tokyonight&count_private=true&hide_border=true" />
 </picture>
 
 <br>
@@ -208,7 +220,7 @@ gitGraph
 
 </div>
 
----
+<img src="assets/divider.svg" width="100%" alt="" />
 
 ## 📬 Handshake
 
@@ -226,7 +238,4 @@ Accept: opportunities
 }
 ```
 
-<div align="center">
-  <br>
-  <sub><code>return new DigitalExperience();</code> &nbsp;·&nbsp; <i>Let's build something amazing together.</i></sub>
-</div>
+<img src="assets/footer.svg" width="100%" alt="return new DigitalExperience(); — Let's build something amazing together." />
